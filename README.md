@@ -6,7 +6,7 @@ Welcome! This repository contains multiple separate projects.
 
 ## 🚀 Available Projects
 
-* ### 📱 [WigglingBatGames](https://balingitwhc.github.io/web-samples/WigglingBatGames/)
+* ### 📱 [WigglingBatGames](https://balingitwhc.github.io/work-samples/WigglingBatGames/)
   A simple static HTML site.
 
 * ### 🌐 [InvoiceProcessor_Script](InvoiceProcessor/README.md)
