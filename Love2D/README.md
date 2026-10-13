@@ -1,5 +1,5 @@
 # 🚀 Block Invaders
-A 2D game test using Lua Scripting with Love2D
+A 2D game test using Lua Scripting with Love2D(https://love2d.org/)
 
 ---
 
