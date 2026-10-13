@@ -1,4 +1,13 @@
-# work-samples
-Some simple websites made with HTML &amp; CSS
+# 📂 Work Samples
 
-1. WigglingBatGames https://balingitwhc.github.io/web-samples/WigglingBatGames/
+Welcome! This repository contains multiple separate projects.
+
+---
+
+## 🚀 Available Projects
+
+* ### 📱 [WigglingBatGames](https://balingitwhc.github.io/web-samples/WigglingBatGames/)
+  A simple static HTML site.
+
+* ### 🌐 [InvoiceProcessor_Script](InvoiceProcessor/README.md)
+  Python Script that reads and extracts data from PDF Invoice and transfer's all relevant data into Excel
